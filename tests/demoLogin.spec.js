@@ -16,5 +16,4 @@ test('Login Demo nopcommerce', async ({ page }) => {
   await page.locator('[class="button-1 login-button"]').first().click();
   await page.locator('[class="content-header"]').isVisible();
   
-
 });
