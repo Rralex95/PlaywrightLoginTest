@@ -1,0 +1,6 @@
+ASSERCIONES
+Que son las aserciones?
+Son validaciones que tu programa utiliza para poder validar alguna propiedad de un elemento web
+
+Como usamos aserciones?
+Empezamos a usar aserciones importando la libreria expect
